@@ -1,0 +1,42 @@
+# Laravel specific
+<<<<<<< HEAD
+=======
+/new.zip
+>>>>>>> a4d556c (Your commit message)
+.env
+/.env.*
+/vendor/
+# /public/
+/db_dump/
+/node_modules/
+# /public/hot/
+/public/storage/
+# /storage/*.key
+# /storage/logs/
+# /storage/app/
+# /storage/framework/
+# /storage/debugbar/
+# /bootstrap/cache/
+Homestead.json
+Homestead.yaml
+
+# IDE (e.g., PhpStorm) specific
+.idea/
+*.iml
+*.ipr
+*.iws
+*.bak
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Composer files
+/composer.phar
+/vendor/
+
+# Node.js
+/node_modules/
+npm-debug.log
+yarn-error.log
